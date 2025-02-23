@@ -75,6 +75,4 @@ The Lookalike Phishing Detection model is designed to detect phishing websites t
    python phishing_detection.py  # For Lookalike Phishing Detection
    ```
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
